@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/game_apocalipse_zumbi.unity
+  isLoaded: 1
+  isActive: 1
