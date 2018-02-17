@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GeradorZumbis.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ControlaInterface.cs">
     <Files>
-      <File FileName="Assets\Scripts\AnimacaoPersonagem.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\GeradorZumbis.cs" Line="11" Column="41" />
+      <File FileName="Assets\Scripts\ControlaInterface.cs" Line="29" Column="6" />
+      <File FileName="Assets\Scripts\ControlaInimigo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControlaJogador.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
